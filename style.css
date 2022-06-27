@@ -1,10 +1,12 @@
 body {
     margin: 0;
     font-family: 'Montserrat';
+    text-align: center;
 }
 
 #title {
     background-color: #CDF0EA;
+    text-align: left;
 }
 
 .codin {
@@ -61,7 +63,7 @@ nav {
 }
 
 .ft {
-    text-align: center;
+    
     padding: 5%;
 }
 
@@ -78,7 +80,7 @@ nav {
 
 #testimonials {
 
-    text-align: center;
+    
     background-color: #CDF0EA;
 }
 
@@ -94,7 +96,7 @@ nav {
 
 #press {
     background-color: #CDF0EA;
-    text-align: center;
+    
     padding-bottom: 6%;
 }
 
@@ -117,7 +119,7 @@ nav {
 
 #pricing {
     padding: 100px;
-    text-align: center;
+    
     margin: 2%;
 }
 
@@ -136,7 +138,7 @@ nav {
 #cta {
     padding: 7% 15%;
     background-color: #CDF0EA;
-    text-align: center;
+    
     line-height: 1.5;
 }
 
@@ -148,7 +150,7 @@ nav {
 
 #footer {
     padding: 2% 15%;
-    text-align: center;
+    
 
 }
 
