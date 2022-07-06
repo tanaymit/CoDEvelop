@@ -63,7 +63,7 @@ nav {
 }
 
 .ft {
-    
+
     padding: 5%;
 }
 
@@ -80,7 +80,7 @@ nav {
 
 #testimonials {
 
-    
+
     background-color: #CDF0EA;
 }
 
@@ -96,7 +96,7 @@ nav {
 
 #press {
     background-color: #CDF0EA;
-    
+
     padding-bottom: 6%;
 }
 
@@ -120,7 +120,7 @@ nav {
 
 #pricing {
     padding: 100px;
-    
+
     margin: 2%;
 }
 
@@ -135,7 +135,7 @@ nav {
 #cta {
     padding: 7% 15%;
     background-color: #CDF0EA;
-    
+
     line-height: 1.5;
 }
 
@@ -147,7 +147,7 @@ nav {
 
 #footer {
     padding: 2% 15%;
-    
+
 
 }
 
@@ -161,15 +161,19 @@ nav {
     #title {
         text-align: center;
     }
+
     .testimonial-text {
         font-size: 1.5rem;
     }
+
     .cta-h3 {
         font-size: 1.75rem;
     }
+
     .pricing-text {
         font-size: 1.75rem;
     }
+
     .btn {
         font-size: 75%;
     }
